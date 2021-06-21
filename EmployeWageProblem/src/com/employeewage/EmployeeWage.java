@@ -31,7 +31,7 @@ public class EmployeeWage {
 			}
 			else
 			{
-				System.out.println("Employee is Absent");
+				System.out.println("Employee is Absent ");
 			}
 
 	}
